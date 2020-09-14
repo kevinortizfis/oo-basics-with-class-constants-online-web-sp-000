@@ -14,6 +14,6 @@ class Shoe
 
   def brand=(brand)
     @brand = brand
-    BRANDS << "#{brand}"
+    BRANDS << "I'm a brand"
   end
 end
